@@ -1,0 +1,6 @@
+flask
+flask-cors
+openai
+python-dotenv
+urllib3
+gradio
