@@ -1,0 +1,81 @@
+# Linkedin-Post-HF-Generator
+
+# Linkedin-Post-HF-Generator 🚀
+
+**Linkedin-Post-HF-Generator** is an intelligent tool designed to help users generate engaging LinkedIn posts using Hugging Face models and Azure OpenAI services. With an easy-to-use interface powered by Gradio, this project streamlines content creation for professionals and marketers alike.
+
+---
+
+## ✨ Features
+
+- **AI-Powered Content Generation**: Leverages Azure OpenAI and Hugging Face models for high-quality LinkedIn post creation.
+- **User-Friendly Interface**: Built with Gradio for seamless and interactive experience.
+- **Environment Configuration**: Utilizes `.env` for secure API key and environment variable management.
+- **Easy Integration**: Modular Python backend for effortless expansion and customization.
+
+---
+
+## 🛠️ Installation
+
+1. **Clone the Repository**
+   ```bash
+   git clone https://github.com/yourusername/Linkedin-Post-HF-Generator.git
+   cd Linkedin-Post-HF-Generator
+   ```
+
+2. **Create and Activate a Virtual Environment (Recommended)**
+   ```bash
+   python -m venv venv
+   source venv/bin/activate  # On Windows: venv\Scripts\activate
+   ```
+
+3. **Install Dependencies**
+   ```bash
+   pip install -r requirements.txt
+   ```
+
+4. **Set Up Environment Variables**
+   - Copy `.env.example` to `.env` and fill in your Azure OpenAI credentials and any other required settings.
+
+---
+
+## 🚀 Usage
+
+1. **Start the Backend**
+   ```bash
+   python backend/newapp.py
+   ```
+
+2. **Access the Interface**
+   - Open the provided Gradio link in your browser.
+   - Enter your prompt or topic.
+   - Generate and copy your LinkedIn post!
+
+---
+
+## 🤝 Contributing
+
+Contributions, issues, and feature requests are welcome!
+
+1. Fork the repository.
+2. Create your feature branch (`git checkout -b feature/YourFeature`).
+3. Commit your changes (`git commit -am 'Add some feature'`).
+4. Push to the branch (`git push origin feature/YourFeature`).
+5. Create a new Pull Request.
+
+---
+
+## 📄 License
+
+This project is licensed under the [MIT License](LICENSE).
+
+---
+
+> Crafted with ❤️ for LinkedIn content creators.
+
+
+## License
+This project is licensed under the **MIT** License.
+
+---
+🔗 GitHub Repo: https://github.com/selvaganesh19/Linkedin-Post-HF-Generator
