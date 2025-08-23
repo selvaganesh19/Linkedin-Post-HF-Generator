@@ -1,5 +1,3 @@
-# Linkedin-Post-HF-Generator
-
 # Linkedin-Post-HF-Generator 🚀
 
 Welcome to **Linkedin-Post-HF-Generator** – an intelligent tool designed to help you generate high-quality LinkedIn posts using advanced AI models! Harness the power of Azure OpenAI and an intuitive Gradio interface to supercharge your content creation workflow.
